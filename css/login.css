@@ -55,6 +55,9 @@ main {
     width: 80%;
 }
 @media (max-width: 576px) {
+    section {
+        width: 100%;
+    }
     .painel-imagem {
         display: none;
     }
