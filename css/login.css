@@ -54,3 +54,8 @@ main {
 .painel-imagem img {
     width: 80%;
 }
+@media (max-width: 576px) {
+    .painel-imagem {
+        display: none;
+    }
+}

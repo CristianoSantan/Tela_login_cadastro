@@ -8,7 +8,7 @@ main {
 }
 .card {
     width: 30%;
-    height: 64%;
+    height: 80%;
     background-color: #fff;
     border-radius: 4px;
 }
@@ -17,7 +17,7 @@ main {
     text-align: center;
     color: #414141;
     margin-top: 64px;
-    margin-bottom: 32px;
+    margin-bottom: 16px;
 }
 .card input {
     display: block;
